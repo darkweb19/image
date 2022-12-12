@@ -1,6 +1,6 @@
-# image
+# Image
 
-#   a clean website created with HTML CSS and JS 
+##  a clean website created with HTML CSS and JS 
 
 ###  just to understand hover , boxshadow and event (click) handeling works in js
 
